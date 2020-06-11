@@ -1,5 +1,5 @@
 # Abstraxo Release Notes
-## 9 December 2020
+## 9 June 2020
   **New feature:**
   - Hotkeys:
   
