@@ -1,4 +1,4 @@
-# Abstraxo Release Notes
+# Abstraxo Release History
 ## 9 June 2020
   **New feature:**
   - Hotkeys:
@@ -9,7 +9,7 @@
   
     Command buttons are arranged in a grid, meaning that each buttons' position corresponds to a position of an assigned key on the keyboard.
     
-    To check which command button the action is mapped to, just hover over it. Note how the app assumes keyboard with QWERTY layout, but regardless to that, the key bindings correspond to your actual keyboard layout, as expected:
+    To see which key is mapped to a specific command button, just hover over it. Note how the app assumes keyboard with QWERTY layout, but regardless to that, the key bindings correspond to your actual keyboard layout, as expected:
 
     | QWERTY | QWERTZ | AZERTY | DVORAK |
     |---|---|---|---|
