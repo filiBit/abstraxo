@@ -1,4 +1,9 @@
 # Abstraxo Release Notes
+
+## 16 June 2020
+ - swarm positioning performance optimization: now the app can import larger structures without crashing
+ - minor UI fixes
+
 ## 9 June 2020
   **New feature:**
   - Hotkeys:
