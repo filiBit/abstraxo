@@ -1,5 +1,17 @@
 # Abstraxo Release Notes
 
+## 20 June 2020
+ ### New feature
+ - Wiki Import
+ 
+   You can now convert Wikipedia articles to mind maps! 😃
+   
+   Generated nodes also include text content from the article's specific section that you can access by opening the node (selecting the node, and pressing the open button)
+   
+   The article search is done inside the app, and can provide results in multiple languages.
+   
+   To access the new feature press the top left button in the app (File operations) and select the **Wiki Import** tab.
+
 ## 16 June 2020
  - swarm positioning performance optimization: now the app can import larger structures without crashing
  - minor UI fixes
