@@ -7,15 +7,13 @@ As users define nodes, relations, and properties, Abstraxo draws a meaningful st
 
 Nodes are self positioned, and can hold user defined properties; Multiple maps can be created in the same view; And import / export operations can help you share the generated structures.
 
-## Current browser support:
-- ### Supported
+## Current browser support
+  ### Supported:
   - Chrome v67 - latest
   - Firefox v69 - latest
   - Edge v79 - latest
 
-
-
-- ### unsupported
+  ### Unsupported:
   - Internet Explorer
   - Safari (as far as I know)
 
