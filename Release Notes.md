@@ -1,5 +1,15 @@
 # Abstraxo Release Notes
 
+## 30 June 2020
+ ### UI Improvements
+  - added a welcome modal with quick actions
+ ### Fixed Issues:
+  - node's property edit no longer overwrites other properties
+  - other minor issues
+ ### Other
+  - mapped ENTER and ESCAPE keys to modal actions confirm and close respectively
+  - minor code optimizations
+
 ## 20 June 2020
  ### New feature
  - Wiki Import
