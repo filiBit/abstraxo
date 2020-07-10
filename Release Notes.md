@@ -1,5 +1,23 @@
 # Abstraxo Release Notes
 
+## 10 July 2020
+ ### UI Improvements
+  - Added page transitions and load spinner
+  - A scrollbar now appears in the node when it's label is focused and the text doesn't fit
+  - Other minor changes
+ ### Fixed Issues
+  - JSON Import feature now recognizes and correctly loads node's properties (name-value pairs) from all JSON objects, including those not exported by Abstraxo.
+  - Fixed a routing issue on rapid navigation, including back / forward browser navigation
+  - Command card no longer shows invalid buttons while some modals are opened
+  - Toggling the lock button on Node's property modal while the form is active no longer causes an error
+  - Other minor issues, or inconsistencies
+ ### Other
+  - Added the `Node Settings` button to a node's UI. For now, It has a single option for changing the node's shape between a circle and a rectangle.
+  - Changed a default shape for nodes from a rectangle to a circle
+  - Added new settings for: toggling swarm bubbles, Command Card's and hud buttons' visibility
+  - Improved the way node selection works
+  - Added `❤ Buy me a coffee` button to the hud
+  
 ## 30 June 2020
  ### UI Improvements
   - added a welcome modal with quick actions
