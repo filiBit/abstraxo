@@ -17,6 +17,10 @@ Nodes are self positioned, and can hold user defined properties; Multiple maps c
   - Internet Explorer
   - Safari (as far as I know)
 
+## Note
+
+The code is not here (obviously). A lot of code refactoring is needed before I publish it and make it open source. However, I don't have enough time right now. Maybe one day...
+
 ## Author
 Filip Biterski
 
